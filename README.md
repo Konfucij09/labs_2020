@@ -45,6 +45,10 @@
         
         Реализация:
         
+        ![](/imgs/auth.gif)
+        
+        Ссылка на папку проекта: https://github.com/Konfucij09/labs_2020/tree/master/auth
+        
      
      
      
