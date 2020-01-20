@@ -62,7 +62,7 @@
         
         ![](/imgs/postman.gif)
         
-        Ссылка на папку проекта: ttps://github.com/Konfucij09/labs_2020/tree/master/blog-api
+        Ссылка на папку проекта: https://github.com/Konfucij09/blog-api
      
      
      
