@@ -49,6 +49,20 @@
         
         Ссылка на папку проекта: https://github.com/Konfucij09/labs_2020/tree/master/auth
         
+   5) Блог
+        Блог с фронтом. Можно создавать и удалять посты.<br>
+        Изучала и использовала: mongoose, express. <br>
+        Тренировалась сначала на json-файле (может попасться закомментированный код)<br>
+        
+        Реализация:
+        
+        ![](/imgs/front_blog.gif)
+        
+        Postman:
+        
+        ![](/imgs/postman.gif)
+        
+        Ссылка на папку проекта: ttps://github.com/Konfucij09/labs_2020/tree/master/blog-api
      
      
      
